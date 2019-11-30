@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "bigdata-hackernews",
+  "private_key_id": "77d9fa1b02c1189e3e7b79b826083a78db10dd04",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQDkXHVI94PdAMAr\nwGk7CxlRvNcRjQFjpNNOQDggPzQUluDPLGUc9mhKQ+7vTlaZ8V+/FApRAlls0f/3\nNWW9AbI3drxrsBAJRBpfn2fLMcSILS4+qbr5I4NHaLqQBAVwyh7rBT0LSzpJZu1T\n5cjq9y0mrWhzprDNfYesQT3r08/xGdKD2tIa7nJNWCZNUjM7K9SNsofTjoBpoXQp\nAvIhtAZgIQhhLSIjHJiajIxZBK3hKunNywrFYDKGXyK/FcFgYPRQ5VYHjG65AOGZ\n29XaGUg03qopUAunRWO49DX2lugTcZlauSoeJach5aBxEgIEw4gnhtGNe6KyXvJM\nLAr76TLJAgMBAAECggEAI+Mo1mL5gNODn8yQ7QO5Qqhp5xrw/zMRtxAuEdlE6sBs\nS3qXWFYb/SHQbKCzyOUPLjTsyx7SpWCaOIQWfT3FP2SkR0sntgETIPho5Byp3Vm2\nVQgw90K+uIvrl8LeBQPqmHYeCgaUPiFUBjWMHeri2FtzmQs26VBDME2feM50dRfV\nB+2zxIG4MBdo99dQM8Py0BwMq7ChYAy0Zu/6cTDn43jINjFqRQKHbMFol1Da7KTu\nQpqVMx8qrMyj+pCEAQlKGcVlkTYRrvtGRl26s65qlUKJKAZ2puo4Ndys9sofkn8L\nmcHpD9WtihJoped2ZxczTaWpxDKXYgo7ZaO2nd5k9QKBgQDyGDKGk6JpM1rSRWQ9\nPMvR3Gbxl2+dwq17Eln9YmTLtsIufh6bKbA3Kkg1GzU7VRdwYQCpAwf6Huebkb4G\ngYD+jzdufTQJW+ffnRIOiuhbLAG0QsXXb9E6uZJy+qxogEE+Idrcxmbs6xHSb+EN\nrfaU6uMb+dObgsziXfluAl6qPQKBgQDxelKt5EJq5yGiq3Bcj4s2/qavGo0VZ2zD\nRw7VA6Fm1YX1L5Rdw77HzTiE7xeXvpTKfH9SM0gv2r+MUTdtescmbf6tun0DABMR\nJW8lH/+sTGzsZDwNPsIpdJTjkK2V4vlr+VEqwWitrjG5emS3TatqY4WHojNlCITF\nnrFGHniPfQKBgDw0fEwvZtJWrR1hmF4KQn28G/W0vVM0WMQkejCjSYHHv16kiqP3\nqBTv9OkQDRrmPF/8H5foYxF2og50HhesGRI1N4nIpSo2quFXRGhNbx9NQFc9y8mZ\nyySZhawGXt3WF2OGM9F3nZ0JkHMO0579RjceesA4TsF7s8wPproO6M/ZAoGALTxi\nAqtQ+d/EgEmnad+GD85SgVjy9wCB8m78S1E7yhzT1GOOYqZJtfouzVBQ1h9gljIO\nU+LBch2DZpDMVlj6t6tBW2AlDQvVho/Bq228IpXKjdoVGdIY41UwkxTGP97eJKj2\n2JCUwHxyWjGgbmpBY1Ozbv4mrJWU8cRRpzYMFa0CgYB4fh6eQha0YH+gXv2g7nEH\nG4lXcmNvrcGkxhJr7gZLcBFB4EKSwL9x7QI1pEwRqLwE2lnbhlVFiF/+xB3Nr2yW\nSef71TkzXgWHnAwb55eonR1AJQg7yoDnm1fScDN8U+TKzeF38FDnsOHFgII9JTLZ\n1KRWOWJwIhtXXdSjyK64lQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ml-2019-project-hackernews@bigdata-hackernews.iam.gserviceaccount.com",
+  "client_id": "104358333830649543986",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ml-2019-project-hackernews%40bigdata-hackernews.iam.gserviceaccount.com"
+}
