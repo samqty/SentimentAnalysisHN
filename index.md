@@ -1,6 +1,6 @@
-Is HackerNews a good predictor of startup success?
-Sentiment Analysis on HackerNews
-Introduction
+#Is HackerNews a good predictor of startup success?
+##Sentiment Analysis on HackerNews
+##Introduction
 Hacker News is a social news website focusing on computer science and entrepreneurship. It is run by Paul Graham’s investment fund and startup incubator, Y Combinator. In general, content that can be submitted is defined as “anything that gratifies one’s intellectual curiosity”. Wikipedia
 Hacker News
 Edit descriptionnews.ycombinator.com
@@ -9,9 +9,9 @@ It’s redit for technology in a nutshell. we will be focusing on the posting in
 “anything that gratifies one's intellectual curiosity”
 The whole purpose of showing your early work on Hacker News is to get an opinion about your idea and get a realistic picture on usability and/or feasibility. users get a simple user interface (much like other social network sites) to vote up/down or start a discussion by adding comments and engaging with the poster or other members of the community. 
 
-Our goal 
+##Our goal 
 Being one of the platforms with a vast collection of tech savvy, opinionated and talented users Hacker news has proven to be a place where ideas get momentum and the creator gets a valuable insight into the viability of what is showcased. As part of our project, we would like to analyse the sentiment of the discussions/comments for the story to find if the discussions were reflective of the future success/failure of the company. 
-Dataset
+##Dataset
 Hacker News data including the stories and comments are available in google cloud BigQuery. The table called “full” contained all the stories and comments have made a data-set containing all stories and comments from it’s launch (2006) available for public.Each story contains id, author who made the post, when it was posted and the number of points story received and so forth. this data is made available by google on the cloud and we were able to write big query SQL to probe the slice of the data we wanted. 
 
 All the data we are looking for lives in the “full” table and the schema of that table looks like 
